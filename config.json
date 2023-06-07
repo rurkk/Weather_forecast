@@ -1,0 +1,5 @@
+{
+    "cities": [ "Saint Petersburg", "Ufa" , "Neftekamsk", "Novokuznetsk"],
+    "days": 2,
+    "frequency": 1000000
+}
